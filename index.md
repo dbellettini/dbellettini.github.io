@@ -4,7 +4,7 @@ title: Free software
 tagline: "my contribution"
 ---
 {% include JB/setup %}
-I opened this blog to talk about my free software projects hosted on GitHub.
+I opened this blog to talk about my free software projects hosted on my [GitHub account](https://github.com/dbellettini)
 
 Below you can find links to my blog posts:
 
