@@ -1,10 +1,10 @@
 h1, h2, #picture, #links {
     text-align: center;
-    color: #3873b2;
 }
 
 h2 {
     font-size: 18pt;
+    color: #3873b2;
 }
 
 body {
