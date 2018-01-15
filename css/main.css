@@ -4,10 +4,14 @@ h1, h2, #picture, #links {
 }
 
 h2 {
-    font-size: 20pt;
+    font-size: 14pt;
 }
 
 body {
     color: black;
+    margin-top: 20px;
+}
+
+#contact-list {
     margin-top: 20px;
 }
