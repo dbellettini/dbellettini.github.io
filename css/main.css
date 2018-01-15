@@ -1,9 +1,13 @@
-h1, #picture, #links {
+h1, h2, #picture, #links {
     text-align: center;
-    text-color: #3873b2;
+    color: #3873b2;
+}
+
+h2 {
+    font-size: 20pt;
 }
 
 body {
-    text-color: black;
+    color: black;
     margin-top: 20px;
 }
