@@ -1,3 +1,8 @@
 h1, #picture, #links {
     text-align: center;
+    text-color: #3873b2;
+}
+
+body {
+    text-color: black;
 }
