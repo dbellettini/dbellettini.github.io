@@ -4,9 +4,9 @@ https://keybase.io/dbellettini
 
 I hereby claim:
 
-  * I am an admin of http://bellettini.eu
+  * I am an admin of https://bellettini.eu
   * I am dbellettini (https://keybase.io/dbellettini) on keybase.
-  * I have a public key ASC3DujnSZix7mW2cPFxWq45njS8vHF15svEv_uZbhuEKgo
+  * I have a public key with fingerprint 0E82 CA37 3BD1 C907 F9AF  6998 9325 274C 319D 0215
 
 To do so, I am signing this object:
 
@@ -14,39 +14,56 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0120b70ee8e74998b1ee65b670f1715aae399e34bcbc7175e6cbc4bffb996e1b842a0a",
+      "fingerprint": "0e82ca373bd1c907f9af69989325274c319d0215",
       "host": "keybase.io",
-      "kid": "0120b70ee8e74998b1ee65b670f1715aae399e34bcbc7175e6cbc4bffb996e1b842a0a",
+      "key_id": "9325274c319d0215",
+      "kid": "0101c4e6327dc36154a0404ed1571f0352ce54bc3b0ffac4ed351603e49c9e8dd5f40a",
       "uid": "a244d697456c593d2a6c6343ff002819",
       "username": "dbellettini"
     },
-    "merkle_root": {
-      "ctime": 1525205862,
-      "hash": "8a127914c070746e32a58d737b3682c31713fbc8f2c6b1d741bd83228a2f01b479ded8f58922fa616f346e16e622c50e6bd69049dddd06d8b72b653ccfbc6161",
-      "hash_meta": "38709f289f00bc8e8b85aa54c154ef19a9f339b4a375dfeee749e3be45a690bf",
-      "seqno": 2467074
-    },
     "service": {
-      "entropy": "tcnGUZ0wC91E4xJK2V/LNRXc",
       "hostname": "bellettini.eu",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "1.0.47"
-  },
-  "ctime": 1525205881,
-  "expire_in": 504576000,
-  "prev": "1405047f53ff64069837b2e996f1dbb98c7f98a8aee8ce5660c889349993ddd8",
-  "seqno": 26,
+  "ctime": 1525626402,
+  "expire_in": 157680000,
+  "prev": "19b687208eccc3e40fc94aa3808b1aef5d62eb8e9cc974e751a1b7534a0b2e28",
+  "seqno": 27,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtw7o50mYse5ltnDxcVquOZ40vLxxdebLxL/7mW4bhCoKp3BheWxvYWTESpcCGsQgFAUEf1P/ZAaYN7LplvHbuYx/mKiu6M5WYMiJNJmT3djEICHuY28DCfjTK9zYHdxxDJMFmCkcZll6MKa1li14zGsJAgHCo3NpZ8RA6K67oh84g5mEo6kbp7SSw3x7N7/yOsZ+3EnhNiKwxWOByX3VVR8qJwL89KwTy3vVqnwZWverR7vl9kvl4m+XAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJhM43t4Rijvem2B9poqWINeWtKUeKcXypsanw+O691Ro3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+
+owFtkntQFVUcx++94qiMAoMGTNmoiwjWjfZ9dm+CL8Im0CAiB9Lu7OMs7AB3r/cu
+l8cd0EBggnIQUBoDmXAiihgUhRJ52CCTokHU5O2BMQUkJKEhQyNKtcvI9E/7z9lz
+zuf7Pd/f75zyNcsMK42VIaGxWK3pCeP1Sd6QfJd+3o3wipiDWNxIGlwcYLoInao1
+TRYRC4JiOMoDFEIGApJlGR6DkKZ4GqASBjCK4yDBspAgeYEXAAYoSGs/JC9JPMvS
+EOMZEudQDjEjkmxLgQ67Q7apui1kcIEjAMGLmMCiQGI5idbsWQKncEAKBMaKKI5R
+mjBVceoKLRzPOWG4rGhr2sS6GO9/+KXcKCaQkCZwIAoEjVEkh5IoCUWMApiEEhQu
+QEpLTfCoJHEaKRIURqMEJFmBhYwoUhK5mDtz0Y7DSVKkWUBStECxhIhztEATJCFJ
+KIozGKuDTuiwcRlQo0UepqdDVZVtMpJnRrQNlyxAvbd6MY+h/5hwmKnp7Q5FVQQl
+XdtKVVW706JL1Ry7zmZB3vrYxcrLNlHrpaZwQYdTVmyIBdNIQZV1W4zCKRqnSRQ3
+IzDbLjugVdYJCtAMqn36OdClWWIsf5BmAI4yUBAErW5UEliS4wgG1S6ZgxIl0jjk
+GcgKglY3BBTGYTygCK2RPA5xBtELO2RTEAsOtKBcimbqlFNsnJrpgEie99smwstg
+XGl4OmCTl09BP3hh6NqKBy3ye0sPcLlJf30G71V+Syue674LG2KO1IQZD8T3hAaP
+e1qOLfetaY27ACxT5SVT8thnbu7LcnZu2f0bzZN95WbHk/biw5HnT2z8dq5qmg33
+zwr9RLwrzo6vY9PkMGKitSix7p5SVE3/PBw87Ls56PW9+MdX6gNNfx56sLDW95lm
+S1dE89xa142fdn2au/vk+vmN7wzEB/auDj62/fLYVUtS9h5QFpwg7K27OS+7Dc/Z
+Sn74pfhc7uV8YDtMdPhV+aTwBV/tjsmeBuHK56fdfatuv1FqniwZ/Oujmd5vTL9d
+6oxyeTZVcycbIrzr7ve3HaipiDLcagztkWddD6sSfbZeuhiGGXf9Om6KPjOT1yRw
+0dvm2+0Nrw0VIJ3b/RP+Xp1bkfZ98B01KW/FlhjkSsOYa6Sicex344Z/ot88Qbcs
+nMsuDInNID/obrt2IeXH48zO4bavnRNDrzhADlnfWnBq6+2gjiw58ju1vWwudNsj
+6uxoQmRl/Gj12Yq8xPadAztenTFFlJUXvnXxvGd9SLXHqxVZNxhTkFpcenMw+aBX
+Q0uvyWrs3t90p6+zEOufenjq2dpKsTVjc9/R7n3VRafHrXbfoyUBAck9a9odST1x
+7vc9H3ZxifjLXY+ojk5L/kBjlM+e2J53K/LbFbOwJe3WS8fjijLqc/9oat4fc+bF
+p/r3jewI9G+cng26Otprzjji94U0ca+kthQZ+Rc=
+=48pl
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
