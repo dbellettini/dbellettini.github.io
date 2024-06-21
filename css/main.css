@@ -1,5 +1,7 @@
 h1, h2, h3, #picture, #links {
     text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
 h2 {
@@ -18,11 +20,12 @@ body {
 }
 
 #contact-list {
-    margin-top: 20px;
+    margin-top: 1rem;
 }
 
-@media only screen 
-  and (min-device-width: 320px) 
+
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) #container {
