@@ -23,6 +23,9 @@ body {
     margin-top: 1rem;
 }
 
+#contact-list li {
+    zoom: 200%;
+}
 
 @media only screen
   and (min-device-width: 320px)
