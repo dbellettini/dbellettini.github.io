@@ -4,6 +4,11 @@ h1, h2, h3, #picture, #links, #p-location {
     margin-bottom: 1.5rem;
 }
 
+#picture img {
+    width: 300px;
+    height: 300px;
+}
+
 h2 {
     font-size: 18pt;
     color: #3873b2;
